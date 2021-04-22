@@ -1,0 +1,15 @@
+What is the Most Dangerous Animal in the World?,1.Lion:2.Giraffe:3.Shark:4.Mosquitto,4
+Which is the Most Dangerous Computer Virus as of 2020?,1.Cyborg Ransomware:2.GoBrut:3.Jokeroo:4.Trojan,1
+Among the alphabet letter which makes honey?,1.H:2.B:3.F:4.O,2
+If you jump off the roof of a three-story building where would you land?,1.On the Ground:2.On the Second level terrace:3.Hospital:4.Who know's,3
+What kind of tree can you carry in your hand?,1.palm:2.red-wood:3.teak-wood:4.Sandal-wood,1
+How Old was Napoleon when he died?,1.51:2.55:3.65:4.20,1
+What was the name of the first permanent English settlement in The Americas?,1.Kingston:2.Georgetown:3.Jamestown:4.Imdown,3
+What kind of animal did clepatra use to kill herself?,1.Lion:2.Tiger:3.Snake:4.Kingkong,3
+In which war was The Battle of Agincourt?,1.WW I:2.WW II:3.Hundred Years' War:4.War,3
+How many eyelashed are on the upper eyelid?,1.50-100:2.150-250:3.110-190:4.1000,2
+How many parts can be distinguished in the cerebellum?,1.two:2.four:3.one:4.none,1
+What is the capital of the American state of Arizona?,1.Phoenix:2.Texas:3.zimbabwe:4.idk,1
+How many federal states does Germany have?,1.16:2.64:3.77:4.12,1
+What does a Indian kid gets from his mom when he did something really bad?,1.Slipper Shot:2.Hit with a Stick:3.Slap using Hands:4.Leather belt,1
+Who is the Parent Company of the Google?,1:Alphabet:2.Amazon:3.Tata:4.Microsoft,1
